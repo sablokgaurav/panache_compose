@@ -1,5 +1,5 @@
 # panache_docker_compose
-a set of functions for writing the panache docker compose with the set of the pangenomes and then compiling new docker compose and yaml.  it will also do the graph linearizing and will import them into the panache. 
+a set of functions for writing the panache docker compose with the set of the pangenomes and then compiling new docker compose and yaml.  it will also do the graph linearizing and will import them into the panache. I decided to write this in the julia kanguage for the faster run over rate and the compilation. 
 
 Gaurav Sablok \
 Academic Staff Member \
